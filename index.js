@@ -24,5 +24,5 @@ app.get("/fibonacci/:num", (req, res) => {
 })
 
 app.listen(5057, function(){
-    console.log("Servidor corriendo en el puerto 5057")
+    console.log("Corriendo")
 })
